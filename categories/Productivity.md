@@ -1,0 +1,3 @@
+# Productivity
+
+- [Supercharge your workflow with real-time information from the Microsoft Learn MCP Server | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/microsoftlearnblog/supercharge-your-workflow-with-real-time-information-from-the-microsoft-learn-mc/4440286) : The Microsoft Learn MCP Server is a new standard that connects AI agents directly to trusted, real-time data sources, providing answers that are accurate, relevant, and up-to-date. It is designed to eliminate the need for browser hopping and guesswork, providing faster and more accurate results with AI guidance that streamlines workflows and helps teams grow their skills and solve real-world problems. #automation #workflow - Added on: [2025-09-21 23:37:52]
