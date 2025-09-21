@@ -25,7 +25,7 @@ This project is a **Personal Knowledge Base (PKB) Links tool** that automaticall
 ## 📂 Project Structure
 - **category_keywords.py** → Defines categories and keyword-to-tag mapping  
 - **pkb_main.py** → Main script: process links, categorize, store, search  
-- **summary.py** → Extracts & summarizes content with error handling and logging  
+- **summarizer.py** → Extracts & summarizes content with error handling and logging  
 - **requirements.txt** → Python dependencies  
 
 ---
@@ -110,8 +110,8 @@ Model Context Protocol (AI): https://markharrison.io/blog/model-context-protocol
 - Summarization requires a **locally running Docker Model Runner (DMR) Llama model**.
 - Logs are stored in `logs/pkb_log.json`.
 - Search works across **titles, summaries, and tags**.
+- This project **only to prototype only implementation** with help of AI Assitance.
 
 ---
 
 ## 📖 License
-MIT License
