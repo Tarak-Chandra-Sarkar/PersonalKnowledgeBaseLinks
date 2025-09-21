@@ -33,10 +33,10 @@ This project is a **Personal Knowledge Base (PKB) Links tool** that automaticall
 ## 🛠️ Workflow
 
 ### High-Level Workflow
-![Workflow](pkb_workflow.png)
+![Workflow](images/pkb_workflow.svg)
 
 ### Detailed Workflow (Content Extraction & Summarization)
-![Detailed Workflow](pkb_detailed_workflow.png)
+![Detailed Workflow](images/pkb_detailed_workflow.svg)
 
 ---
 
